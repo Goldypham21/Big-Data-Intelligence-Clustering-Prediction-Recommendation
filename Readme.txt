@@ -26,7 +26,7 @@
     -Processes stock data to create feature vectors based on past fluctuations.
     -Evaluates performance using MSE and visualizes results.
 
-  + Req 5: Multi-Class Classification
+  + Req-5: Multi-Class Classification
     -Implements MLP, Random Forest, and SVM classifiers on mnist_mini.csv.
     -Evaluates models using cross-entropy loss and accuracy.
     -Compares results using a bar chart.
